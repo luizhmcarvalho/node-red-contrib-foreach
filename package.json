@@ -1,0 +1,14 @@
+{
+    "name": "node-red-contrib-foreach",
+    "version": "0.0.1",
+    "description": "A Node-RED node for iterating over an array.",
+    "keywords": ["code-flow", "foreach", "array", "loop", "iteration", "low-code","mobileX","node-red"],
+    "node-red": {
+      "nodes": {
+        "foreach": "nodes/foreach-node/foreach-node.js"
+      }
+    },
+    "author": "Luiz Carvalho <dev@mtmtecnologia.com.br>",
+    "license": "MIT",
+    "dependencies": {}
+  }
